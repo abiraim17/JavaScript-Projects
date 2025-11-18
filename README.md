@@ -16,7 +16,7 @@ This web app allows users to type any text, choose a voice, and listen to the sp
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5**
 - **CSS3**
